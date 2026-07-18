@@ -72,8 +72,8 @@ My work ranges from **neural network visualizers** and **multimodal image proces
 | ⏰ **Expiry Tracker** | A product expiry tracking system to record item expiration dates and send timely alerts. Built in Python with a clean backend to store, retrieve, and monitor expiry data. | [Repo →](https://github.com/Fahadbabar2/Expiry_Tracker_project) |
 | 🎤 **Interview Preparation System (ANN-Based)** | An AI-powered interview prep platform using Artificial Neural Networks to adapt question difficulty and topic coverage based on user performance. | [Repo →](https://github.com/Fahadbabar2/Interview_prepration_system_ANN_Based) |
 | 🤖 **ChatGPT from Scratch** | A decoder-only GPT built entirely from scratch in pure PyTorch — character-level tokenizer, self-attention, causal masking, and a full autoregressive training loop, trained on the Tiny Shakespeare dataset. | [Repo →](https://github.com/Fahadbabar2/CHAT_GPT-from-Scratch) |
-| 🧩 **Skill Sense AI** | An AI-driven skill assessment/analysis system. *(Add a one-line description here — happy to update once you share the details!)* | [Repo →](https://github.com/Fahadbabar2/Skill_Sense.AI) |
-| 📹 **Live Video Streaming through API** | A real-time video streaming solution built around API integration. *(Add a one-line description here — happy to update once you share the details!)* | [Repo →](https://github.com/Fahadbabar2/Live_Video_Streaming_through_API) |
+| 🧩 **Skill Sense AI** | An AI-driven skill assessment/analysis system.  | [Repo →](https://github.com/Fahadbabar2/Skill_Sense.AI) |
+| 📹 **Live Video Streaming through API** | A real-time video streaming solution built around API integration.  | [Repo →](https://github.com/Fahadbabar2/Live_Video_Streaming_through_API) |
 
 > 📌 More projects on my [GitHub profile](https://github.com/Fahadbabar2?tab=repositories) — check them out!
 
