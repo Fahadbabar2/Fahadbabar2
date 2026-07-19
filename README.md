@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fahadbabar2/Fahadbabar2/main/wow.gif" alt="animated banner" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0D1117&height=220&section=header&text=Fahad%20Babar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18" alt="header banner" />
