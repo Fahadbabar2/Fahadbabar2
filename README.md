@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Fahadbabar2/Fahadbabar2/main/code-editor-banner.svg" alt="animated code editor banner" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Fahadbabar2/Fahadbabar2/main/terminal-banner.svg" alt="terminal simulation banner" />
 </p>
 
