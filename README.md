@@ -76,6 +76,7 @@ My work ranges from **neural network visualizers** and **multimodal image proces
 
 | Project | Details | Link |
 |---|---|---|
+| 😷 **Face Mask Detection** | A computer vision pipeline comparing a custom CNN vs. fine-tuned MobileNetV2 for 3-class mask detection, with Grad-CAM interpretability analysis and a deployed Streamlit app for live predictions. | [Repo →](https://github.com/Fahadbabar2/face-mask-detection) |
 | 🖼️ **Multimodal DIP System** | A multimodal Digital Image Processing system for image enhancement and transformation. Implements filtering, edge detection, histogram equalization, and noise reduction with an interface to compare multiple models on uploaded images. | [Repo →](https://github.com/Fahadbabar2/Multi_Model_DIP_System) |
 | ⏰ **Expiry Tracker** | A product expiry tracking system to record item expiration dates and send timely alerts. Built in Python with a clean backend to store, retrieve, and monitor expiry data. | [Repo →](https://github.com/Fahadbabar2/Expiry_Tracker_project) |
 | 🎤 **Interview Preparation System (ANN-Based)** | An AI-powered interview prep platform using Artificial Neural Networks to adapt question difficulty and topic coverage based on user performance. | [Repo →](https://github.com/Fahadbabar2/Interview_prepration_system_ANN_Based) |
