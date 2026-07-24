@@ -71,6 +71,111 @@ My work ranges from **neural network visualizers** and **multimodal image proces
 </p>
 
 ---
+---
+<div align="center">
+
+# 💝 HeartScript AI
+
+### *Turning emotions into beautifully written letters with AI.*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF4D8D&center=true&vCenter=true&width=700&lines=✨+AI+Powered+Love+Letter+Generator;💌+Emotion+Aware+Writing+Assistant;❤️+Built+with+Loveable+%2B+Express.js;🚀+Modern+UI+%7C+Real-Time+AI+Experience" />
+
+</div>
+
+---
+
+## 🌟 Why this project?
+
+HeartScript AI is an AI-powered web application that transforms simple thoughts into heartfelt, emotionally rich letters. Instead of generating generic responses, it focuses on tone, emotion, and expression to help users communicate feelings naturally.
+
+Whether it's a romantic confession, an apology, a long-distance message, or a heartfelt appreciation, HeartScript AI creates personalized letters in seconds.
+
+---
+
+## ✨ Highlights
+
+- ❤️ Beautiful modern interface built with **Loveable**
+- 🤖 AI-generated emotional writing
+- ⚡ Fast Express.js backend
+- 🎨 Responsive animations & clean UX
+- 💌 Multiple writing styles
+- 🌍 Ready to deploy anywhere
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend | Backend | AI | Deployment |
+|----------|----------|----|------------|
+| Loveable + React + Vite | Express.js | AI API | Vercel |
+
+---
+
+## 🚀 Run Locally
+
+### 1️⃣ Clone the frontend
+
+```bash
+git clone https://github.com/Fahadbabar2/heart-script-glow.git
+```
+
+### 2️⃣ Clone the backend
+
+```bash
+git clone https://github.com/YOUR_USERNAME/love-test-backend.git
+```
+
+### 3️⃣ Start Backend
+
+```bash
+cd love-test-backend
+npm install
+npm start
+```
+
+Backend runs on
+
+```
+http://localhost:5000
+```
+
+---
+
+### 4️⃣ Start Frontend
+
+```bash
+cd heart-script-glow
+npm install
+npm run dev
+```
+
+Open
+
+```
+http://localhost:5173
+```
+
+---
+
+## 📸 Preview
+
+### 🌐 Live Demo
+
+https://heart-script-glow.lovable.app/
+
+---
+
+<div align="center">
+
+### ⭐ If you enjoyed this project...
+
+Give it a ⭐ on GitHub and share it with others.
+
+Made with ❤️ by **Fahad Babar**
+
+</div>
+
+---
 
 ### 🎯 Featured Projects
 
